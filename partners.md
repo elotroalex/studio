@@ -7,15 +7,13 @@ Studio@Butler opened in Fall 2013, conceived and funded by a new partnership bet
 
 ## Founding Organizations
 
-**The Digital Humanities Center at Columbia University Libraries**. The DHC—now folded into the Digital Scholarship unit of the Libraries—helps Columbia faculty and students incorporate advanced computer-based approaches into their research, publications and teaching. It offers scholars paths into the latest digital resources and technologies, often in combination with resources they create themselves. The Digital Scholarship Coordinator, Alex Gil (agil@columbia.edu) schedules talks, trainings, researchathons, labs, and many other happenings in the Studio.
+**[Columbia University Libraries](http://library.columbia.edu/)**. Through its [Digital Scholarship group](http://library.columbia.edu/services/digital-scholarship.html), the libraries help Columbia faculty and students incorporate advanced computer-based approaches into their research, publications and teaching. It offers scholars paths into the latest digital resources and technologies, often in combination with resources they create themselves. The Digital Scholarship Coordinator, Alex Gil (agil@columbia.edu) schedules talks, trainings, researchathons, labs, and many other happenings in the Studio.
 
 **Columbia University’s [Center for Teaching and Learning](http://ctl.columbia.edu/)**. When it opened in 2013, Studio@Butler housed the GSAS Teaching Center, a professional development resource for graduate students that merged into Columbia’s new Center for Teaching and Learning (CTL) in 2015. CTL holds workshops for graduate students in the Studio as well as a range of presentations, course labs, and informal gatherings. Mark Phillipson (mlp55@columbia.edu), Director of Graduate Student Programs and Initiatives, programs Studio events for the CTL.
 
 ## Partner Organizations
 
 **The CTL’s Media, Infrastructure, and Design Studio** was founded in 1999 as the Center for New Media Teaching and Learning (CCNMTL), with the mandate to help Columbia faculty with the purposeful use of technology in teaching. It partners with instructors across the university to design, implement, and assess a great range of digital projects at the university. These projects include simulations, case studies, multimedia analysis platforms, training modules, and field-based tools. This branch of the CTL holds workshops, coding sprints, and evaluation sessions in Studio that  assess use and efficacy of its custom-designed educational environments.
-
-**The Center for Digital Research and Scholarship** helps Columbia University scholars increase the utility and impact of their research and scholarship. Its services support open access publication, flexible conferencing, data management, and digital collaboration. CDRS runs the Scholarly Communication program as well as Columbia Libraries’ Academic Commons repository. 
 
 ## Faculty Advisors
 
